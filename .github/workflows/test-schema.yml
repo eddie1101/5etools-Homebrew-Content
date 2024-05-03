@@ -1,0 +1,22 @@
+name: Test Homebrew Schema
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    name: Test against 5etools Homebrew Schema
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Setup Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+    - name: Install official 5etools test script
+      run: npm i
+    - name: Test with 5etools Schema
+      run: npx test-json-brew --dir content 
