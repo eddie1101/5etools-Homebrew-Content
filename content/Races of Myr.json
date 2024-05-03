@@ -1,0 +1,114 @@
+{
+    "$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/master/schema/brew-fast/homebrew.json",
+    "_meta": {
+        "sources": [
+            {
+                "json": "EddieGPantheonOfMyr",
+                "abbreviation": "TPoM",
+                "full": "The Pantheon of Myr",
+                "authors": [
+                    "Eddie G"
+                ],
+                "convertedBy": [
+                    "Eddie G"
+                ],
+                "version": "1.0",
+                "url": "https://homebrewery.naturalcrit.com/share/1xXq1GoRgPmOzaSDxmDMkkY4oEcPVwjhRhzpibpKlUg2s",
+                "targetSchema": "1.1.0",
+                "color": "5602cc"
+            }
+        ],
+        "dateAdded": 1714700699,
+        "dateLastModified": 1714700699
+    },
+    "race": [
+        {
+            "name":"C'Tisian",
+            "source": "EddieGPantheonOfMyr",
+            "size": [
+                "M"
+            ],
+            "speed": {
+                "walk": 30
+            },
+            "ability": [
+                {
+                    "dex": 2
+                }
+            ],
+            "traitTags": [
+                "Uncommon Race"
+            ],
+            "languageProficiencies": [
+                {
+                    "common": true,
+                    "c'tisian": true
+                }
+            ],
+            "immune": [
+                "poison"
+            ],
+            "conditionImmune": [
+                "poisoned"
+            ],
+            "additionalSpells": [
+                {
+                    "innate": {
+                        "1": {
+                            "daily": {
+                                "1": [
+                                    "poison spray"
+                                ]
+                            }
+                        }
+                    },
+                    "ability": "cha"
+                }
+            ],
+            "entries": [
+                {
+                    "type": "entries",
+                    "name": "Mobile",
+                    "entries": [
+                        "Non-magical difficult terrain does not slow you down."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Innate Spellcasting",
+                    "entries": [
+                        "You can cast poison spray at will. You use your Charisma when you do."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Age",
+                    "entries": [
+                        "C’tisians mature into adults after 5 years, and can live for no more than 60 years."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Size",
+                    "entries": [
+                        "Your size is Medium."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Speed",
+                    "entries": [
+                        "Your walking speed is 30 feet."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Languages",
+                    "entries": [
+                        "You speak C'tisian and Common."
+                    ]
+                }
+            ]
+        }
+    ]
+}
