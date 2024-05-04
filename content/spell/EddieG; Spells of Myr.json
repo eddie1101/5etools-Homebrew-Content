@@ -58,7 +58,7 @@
             ],
             "entries": [
                 "You can emit an intense heat from your body. Creatures within 5 feet of you must make a Constitution saving throw or take 1d8 fire damage. Autocombustible objects in range, such as dry wood and rope, ignite.",
-                "This spell's damage increases by {@dice 1d8} at 5th level ({@damage 2d8}), 11th level ({{@damage 3d8}), and 17th level ({@damage 4d8}). At 11th level, this spells range also increases to 10 feet."
+                "This spell's damage increases by {@dice 1d8} at 5th level ({@damage 2d8}), 11th level ({@damage 3d8}), and 17th level ({@damage 4d8}). At 11th level, this spells range also increases to 10 feet."
             ],
             "damageInflict": [
                 "fire"
