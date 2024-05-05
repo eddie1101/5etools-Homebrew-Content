@@ -1,0 +1,170 @@
+{
+    "$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/master/schema/brew-fast/homebrew.json",
+    "_meta": {
+        "sources": [
+            {
+                "json": "EddieGPantheonOfMyr",
+                "abbreviation": "TPoM",
+                "full": "The Pantheon of Myr",
+                "authors": [
+                    "Eddie G"
+                ],
+                "convertedBy": [
+                    "Eddie G"
+                ],
+                "version": "1.0",
+                "url": "https://homebrewery.naturalcrit.com/share/1xXq1GoRgPmOzaSDxmDMkkY4oEcPVwjhRhzpibpKlUg2s",
+                "targetSchema": "1.1.0",
+                "color": "5602cc"
+            }
+        ],
+        "dateAdded": 1714700699,
+        "dateLastModified": 1714700699
+    },
+    "language": [
+        {
+            "name": "Abysian",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "exotic"
+        },
+        {
+            "name": "Anorian",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Atlantean",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Caelan",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "exotic"
+        },
+        {
+            "name": "C'Tisian",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Celestian",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Pelagian",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Ysian",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Manish",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Tartarian",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Agarthan",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Ulmish",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Ermorian",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Old Ermorian",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "exotic"
+        },
+        {
+            "name": "Pythian",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "standard"
+        },
+        {
+            "name": "Machakan",
+            "source": "EddieGPantheonOfMyr",
+            "page": 0,
+            "entries": [
+                ""
+            ],
+            "type": "exotic"
+        }
+    ]
+}
